@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "url": "https://res.cloudinary.com/duzf4vfki/imafe/upload/v1637622238/iconos/2_aywkbg.png",
+            "nombre": "Estefania Eusse",
+            "correo": "estefaeusse@gmail.com",
+            "descripcion": "Hola, Eusse"
+        }
+    ]
+
+}
